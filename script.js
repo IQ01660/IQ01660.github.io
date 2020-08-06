@@ -3,11 +3,11 @@ const canvasWidth = 800;
 const canvasHeight = 400;
 const groundHeight = 50;
 const topBarrier = 30;
-const holeHeight = 130;
+const holeHeight = 150;
 
 //game displays
 let obstacleSpeed = -3;
-const speedIncrement = 0.2;
+const speedIncrement = 0.1;
 let currentScore = 0;
 
 //constrol if a game is over
